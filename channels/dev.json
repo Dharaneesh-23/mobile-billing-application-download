@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "stage": "dev",
+  "packageName": "com.tharaasree.billmanager.dev",
+  "baseVersion": "0.1.0",
+  "versionName": "0.1.0-dev",
+  "versionCode": 1001,
+  "tag": "dev-1001",
+  "sourceCommit": "5274398952fad5c57a9adcf5253c21381786ae11",
+  "sha256": "8d59358c3fb51d89855a10d4a99685ae43464f5673173749b41e33d5b94bdea1",
+  "certificateSha256": "be25980e548bedc63d6fea030ffd25e0c96e5eb6027f6133ff7420a4a0108633",
+  "downloadUrl": "https://github.com/Dharaneesh-23/mobile-billing-application-download/releases/download/dev-1001/Tharaasree-Dev.apk",
+  "releaseNotes": "First client Dev release: separate test app, Tamil/English actions, corrected A4 invoice export and online updates."
+}
