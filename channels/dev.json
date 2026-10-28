@@ -4,11 +4,11 @@
   "packageName": "com.tharaasree.billmanager.dev",
   "baseVersion": "0.1.0",
   "versionName": "0.1.0-dev",
-  "versionCode": 1003,
-  "tag": "dev-1003",
-  "sourceCommit": "3e728d9e98fb7bcd6fe1ec49cd9d424c516c5384",
-  "sha256": "046e9696537bc8e64cb4e4fbe066bdd8b7c0c7e77136bc5c17311aaf1649c9a2",
+  "versionCode": 1005,
+  "tag": "dev-1005",
+  "sourceCommit": "d75c28b3ed40e7590973b30495f13047f41b62ba",
+  "sha256": "2cd0788c2c7835c872c20779365eef06a752f44930e4bddba529789ebc0166b4",
   "certificateSha256": "be25980e548bedc63d6fea030ffd25e0c96e5eb6027f6133ff7420a4a0108633",
-  "downloadUrl": "https://github.com/Dharaneesh-23/mobile-billing-application-download/releases/download/dev-1003/Tharaasree-Dev.apk",
+  "downloadUrl": "https://github.com/Dharaneesh-23/mobile-billing-application-download/releases/download/dev-1005/Tharaasree-Dev.apk",
   "releaseNotes": ""
 }
